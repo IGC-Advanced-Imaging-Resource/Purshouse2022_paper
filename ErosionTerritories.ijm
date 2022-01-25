@@ -24,9 +24,10 @@
 * How to add an update site - https://imagej.net/update-sites/                                                        
 * How to use an ImageJ macro from Github - https://github.com/IGC-Advanced-Imaging-Resource/ImageJ_Macros
 * This script is hosted here with an example image - https://github.com/IGC-Advanced-Imaging-Resource/Purshouse2022_paper       
-* 																														Written by Laura Murphy (laura.murphy@ed.ac.uk)                                                                                                                                                                                                                                                                                                                             
-* 																													  	IGC Advanced Imaging Resource (https://www.ed.ac.uk/institute-genetics-cancer/facilities/advanced-imaging-resource)
-*                                                                                                                     	First written: November 2019  Last updated January 2022                                                                                                        
+* 
+* Written by Laura Murphy (laura.murphy@ed.ac.uk)                                                                                                                                                                                                                                                                                                                             
+* IGC Advanced Imaging Resource (https://www.ed.ac.uk/institute-genetics-cancer/facilities/advanced-imaging-resource)
+* First written: November 2019  Last updated January 2022                                                                                                        
 */
 
 
